@@ -1,2 +1,15 @@
-# Python-micro-project--Smart-Study-companion-
-An AI-powered study companion built to assist students with learning, planning, and academic productivity.
+# Smart Study Companion
+
+An AI-powered study assistant for students.
+
+## Features
+- Study planning
+- Question answering
+- Productivity tracking
+
+## Tech Stack
+- Python
+- AI APIs
+
+## Author
+Sai Srinidhi
